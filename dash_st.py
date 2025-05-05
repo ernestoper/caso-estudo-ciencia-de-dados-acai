@@ -37,7 +37,7 @@ st.markdown("""
         color: #5a5c69;
     }
     .metric-card {
-        background-color: white;
+        background-color: black;
         border-radius: 0.5rem;
         padding: 1.5rem;
         box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15);
@@ -60,7 +60,7 @@ st.markdown("""
         padding-top: 2rem;
     }
     .sidebar-title {
-        color: white;
+        color: black;
         font-size: 1.2rem;
         font-weight: 800;
         padding: 0 1rem 1rem 1rem;
