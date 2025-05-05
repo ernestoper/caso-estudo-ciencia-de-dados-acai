@@ -137,7 +137,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/seunome) para Açaí Fitness.
+Desenvolvido por [Ernesto Juscamayta](https://www.linkedin.com/in/v-ernesto-a-juscamayta-440298b0) para Açaí Fitness.
 
 ---
 
