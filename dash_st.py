@@ -54,7 +54,7 @@ st.markdown("""
         padding-top: 1rem;
     }
     div[data-testid="stSidebarNav"] span {
-        color: white;
+        color: black;
     }
     .st-emotion-cache-16txtl3.ezrtsby2 {
         padding-top: 2rem;
