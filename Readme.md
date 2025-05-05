@@ -80,7 +80,7 @@ acai-fitness-dashboard/
 
 ## 📊 Capturas de Tela
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](image.png)
 
 ## 🚀 Como Usar
 
