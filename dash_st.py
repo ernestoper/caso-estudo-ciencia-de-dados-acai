@@ -21,7 +21,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     .main {
-        background-color: #f5f7f9;
+        background-color: #000;
     }
     .st-emotion-cache-1v0mbdj.e115fcil1 {
         width: 100%;
@@ -197,7 +197,7 @@ else:
     ]
     
     # Título principal do dashboard
-    st.title("Dashboard Açaí Fitness - Análise de Vendas")
+    st.title("Dashboard Açaí - Análise de Vendas")
     
     # Mostrar o período selecionado
     st.markdown(f"**Período analisado:** {start_date.strftime('%d/%m/%Y')} até {end_date.strftime('%d/%m/%Y')}")
